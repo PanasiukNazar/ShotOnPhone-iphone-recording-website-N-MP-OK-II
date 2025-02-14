@@ -11,10 +11,10 @@ https://templatemo.com/tm-583-festava-live
 -----------------------------------------*/
 :root {
     --white-color: #ffffff;
-    --primary-color: #408ec6;
-    --secondary-color: #408ec6;
+    --primary-color: #FC766AFF;
+    --secondary-color: #FC766AFF;
     --section-bg-color: #f0f8ff;
-    --custom-btn-bg-color: #408ec6;
+    --custom-btn-bg-color: #FC766AFF;
     --custom-btn-bg-hover-color: #c01f27;
     --dark-color: #000000;
     --p-color: #717275;
@@ -1003,7 +1003,7 @@ strong {
 }
 
 .active {
-    color: #408ec6;
+    color: #FC766AFF;
 }
 .cookie-wrapper {
     position: fixed;
@@ -1030,12 +1030,12 @@ strong {
     display: none;
 }
 header i {
-    color: #408ec6;
+    color: #FC766AFF;
     font-size: 32px;
     text-align: center;
 }
 header h2 {
-    color: #408ec6;
+    color: #FC766AFF;
     font-weight: 500;
     text-align: center;
 }
@@ -1043,7 +1043,7 @@ header h2 {
     text-align: center;
 }
 .data p a {
-    color: #408ec6;
+    color: #FC766AFF;
     text-decoration: none;
     text-align: center !important;
 }
@@ -1055,11 +1055,11 @@ header h2 {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #408ec6;
+    border: 2px solid #FC766AFF;
     border-radius: 35px;
     color: #fff;
     padding: 8px 0;
-    background: #408ec6;
+    background: #FC766AFF;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.5s ease;
@@ -1067,14 +1067,14 @@ header h2 {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #408ec6;
+    color: #FC766AFF;
 }
 #declineBtn {
     background-color: #fff;
-    color: #408ec6;
+    color: #FC766AFF;
 }
 #declineBtn:hover {
-    background-color: #408ec6;
+    background-color: #FC766AFF;
     color: #fff;
 }
 /* Footer Style */
